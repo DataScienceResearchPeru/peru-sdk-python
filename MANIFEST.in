@@ -1,0 +1,2 @@
+include LICENSE README.md upstream.lock.json
+recursive-include tests *.py *.json
